@@ -1,0 +1,3 @@
+<design:component>
+    <design:attribute name="reqRecordId" label="レコード ID" />
+</design:component>
